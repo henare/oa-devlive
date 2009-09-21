@@ -18,6 +18,8 @@ Directory layout:
 
 Change Log:
 ~~~~~~~~~~~
+0.0.5 - Web app directory is now the twfy git repo
+
 0.0.4 - Enabled search
 
 0.0.3 – Added git, added Open VM Tools (removed Perl-Error due to a conflict). Firefox bookmarks and start page changed
