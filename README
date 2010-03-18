@@ -18,6 +18,10 @@ Directory layout:
 
 Change Log:
 ~~~~~~~~~~~
+0.1.0 - Added PlanningAlerts.org.au
+
+0.0.6 - Alpha version adding PlanningAlerts.org.au
+
 0.0.5 - Web app directory is now the twfy git repo
 
 0.0.4 - Enabled search

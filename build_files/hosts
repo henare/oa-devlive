@@ -9,7 +9,7 @@
 # IP-Address  Full-Qualified-Hostname  Short-Hostname
 #
 
-127.0.0.1       localhost
+127.0.0.1	localhost
 
 # special IPv6 addresses
 ::1             localhost ipv6-localhost ipv6-loopback
@@ -22,3 +22,5 @@ ff02::2         ipv6-allrouters
 ff02::3         ipv6-allhosts
 
 127.0.0.1	dev.openaustralia.org
+127.0.0.1   dev.planningalerts.org.au
+
